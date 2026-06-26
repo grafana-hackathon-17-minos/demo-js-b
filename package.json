@@ -1,0 +1,10 @@
+{
+  "name": "demo-js-b",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minos demo: deliberately-stale JS deps for Renovate to bump.",
+  "dependencies": {
+    "lodash": "4.17.20",
+    "@aws-sdk/client-s3": "3.600.0"
+  }
+}
