@@ -4,7 +4,7 @@
   "private": true,
   "description": "Minos demo: deliberately-stale JS deps for Renovate to bump.",
   "dependencies": {
-    "lodash": "4.17.20",
+    "lodash": "4.18.1",
     "@aws-sdk/client-s3": "3.600.0"
   }
 }
